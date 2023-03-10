@@ -1,0 +1,48 @@
+body {
+    padding-bottom: 10px;
+}
+
+hr {
+    width: 70%;
+}
+
+.card {
+    border: 3px groove lightgray;
+    border-radius: 20px;
+}
+
+.card:hover {
+    box-shadow: 3px 4px 7px 3px lightgray;
+}
+
+.contents {
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+ol {
+    list-style: none;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    color: teal;
+    padding: 0;
+    margin: 0;
+}
+
+#intro {
+    font-weight: bold;
+    color: crimson;
+    text-align: center;
+}
+
+.btn {
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.btn-group {
+    float: right;
+}
